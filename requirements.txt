@@ -1,3 +1,7 @@
 openai
 python-dotenv
 sympy
+graphviz
+pyvis
+networkx
+matplotlib
