@@ -149,5 +149,5 @@ async def speculative_planning(task, max_steps=5, k=2):
 
 
 # Example Usage
-task_description = "Today is Valentine's Day. I want to surprise my wife. Please plan some activities with $1000."
+task_description = "I want to buy a house in San Jose. Please help me plan my buying process. I have a budget of $1000,000."
 asyncio.run(speculative_planning(task_description, max_steps=5, k=2))
