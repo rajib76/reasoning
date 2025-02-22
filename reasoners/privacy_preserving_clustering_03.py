@@ -1,4 +1,4 @@
-# !/usr/bin/env python
+# Based on https://arxiv.org/pdf/2412.13678
 
 ## Algorithm for Clustering and Summarizing Text Data with PII Removal
 
